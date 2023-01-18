@@ -1,5 +1,5 @@
 #  0x19. C - Stacks, Queues - LIFO, FIFO
-
+**Description**
 ## Data structures:
 * Header includes the following data structures. 
 ```
